@@ -1,7 +1,7 @@
 ### Olá eu sou Dario Evangelista de Araújo.
 
-Sou estudante de Analise e desenvolvimento de sistema pela UNIP, Estudo HTML/CSS e Js, inglês.
-meus estudos atuais são voltados para font-end mas tenho um breve conhecimento em python, e pela faculdade faço projetos em c.
+Sou estudante de Analise e desenvolvimento de sistema pela **UNIP**, Estudo HTML/CSS e Js, inglês.
+meus estudos atuais são voltados para **font-end** mas tenho um breve conhecimento em python, e pela faculdade faço projetos em c.
 
 
 ##
