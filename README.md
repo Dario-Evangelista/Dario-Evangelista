@@ -1,7 +1,6 @@
 ### Olá eu sou Dario Evangelista de Araújo.
 
-Sou estudante de Analise e desenvolvimento de sistema pela **UNIP**, Estudo HTML/CSS e Js, inglês.
-meus estudos atuais são voltados para **font-end** mas tenho um breve conhecimento em python, e pela faculdade faço projetos em c.
+Desenvolvedor entusiasta, estudante de Python e Ciência da Computação na MITx e Engenharia de Computação na Impacta. Especializado na criação de Bots, desenvolvimento de websites com Django e proficiente em Python. Apaixonado por resolver problemas e contribuir para projetos de código aberto. #Python #CiênciaDaComputação #EngenhariaDeComputação
 
 
 ##
