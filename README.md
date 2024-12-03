@@ -1,7 +1,6 @@
-### Olá eu sou Dario Evangelista de Araújo.
+### Hi, I'm Dario Evangelista de Araújo.
 
-Desenvolvedor entusiasta, estudante de Python e Ciência da Computação na MITx e Engenharia de Computação na Impacta. Especializado na criação de Bots, desenvolvimento de websites com Django e proficiente em Python. Apaixonado por resolver problemas e contribuir para projetos de código aberto. #Python #CiênciaDaComputação #EngenhariaDeComputação
-
+Enthusiastic developer, student of Python and Computer Science at MITx and Computer Engineering at Impacta. Specialized in creating Bots, developing websites with Django and proficient in Python. Passionate about solving problems and contributing to open source projects. #Python #ComputerScience #ComputerEngineering
 
 ##
 
